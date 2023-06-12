@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.162e46eb.css",
+    "main.js": "/static/js/main.74ca20ec.js",
+    "static/media/overviewpic.png": "/static/media/overviewpic.85202695ca58732138e2.png",
+    "static/media/profilepic.jpg": "/static/media/profilepic.11300de4574e308b06ec.jpg",
+    "static/media/tabletandphone.png": "/static/media/tabletandphone.20842bb032b5f57ece59.png",
+    "static/media/LAPTOPCOVER.png": "/static/media/LAPTOPCOVER.f37bd01eda8c1147188d.png",
+    "static/media/rightpic.png": "/static/media/rightpic.14dec76f5bf7063f714c.png",
+    "static/media/leftpic.png": "/static/media/leftpic.f07c0afada9bb5d4358b.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.162e46eb.css.map": "/static/css/main.162e46eb.css.map",
+    "main.74ca20ec.js.map": "/static/js/main.74ca20ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.162e46eb.css",
+    "static/js/main.74ca20ec.js"
+  ]
+}
